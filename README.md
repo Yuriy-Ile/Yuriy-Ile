@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Yuriy-Ile
-- 👀 I’m interested in Big Data
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Python projects
+- 👀 I’m interested in DevOps | Big Data
+- 🌱 I’m currently learning DevOps and Linux Administration
+- 💞️ I’m looking to collaborate on DevOps projects
 - 📫 How to reach me: wright me here
 
 <!---
